@@ -1,4 +1,10 @@
-# Hash-Slinging Slasher
+# 資料探勘 Final Project (Group 13)
+
+* 競賽網址：https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/overview
+* 程式碼：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/model_v2.ipynb
+* 結果圖：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/img/model_v2_result.png
+
+---
 
 在迴歸分析中，「點」預測（代表集中趨勢）並不罕見。而在本次比賽中，我們關注的是預測一個「區間」（離散度指標）。
 
