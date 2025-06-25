@@ -2,7 +2,8 @@
 
 * 競賽網址：https://www.kaggle.com/competitions/prediction-interval-competition-ii-house-price/overview
 * 程式碼：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/model_v2.ipynb
-* 結果圖：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/img/model_v2_result.png
+* 模型結果圖：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/img/model_v2_result.png
+* baseline 結果圖：https://github.com/Mere-cat/Hash-Slinging-Slasher/blob/main/img/result_qrf.png
 
 ---
 
